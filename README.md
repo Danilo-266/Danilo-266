@@ -1,12 +1,19 @@
-# Olá! Eu sou o Danilo Pereira 👋
+# Danilo Pereira 👋
 
-🎓 **Graduando em Engenharia de Computação** na **USP** e formado em **Desenvolvimento de Sistemas** pelo Colégio Técnico de Limeira (**COTIL / Unicamp**).
-⚙️ Tenho maior aptidão e foco no desenvolvimento **Back-End**, gostando de resolver problemas complexos e entender como as coisas funcionam "por baixo dos panos", com especial foco em **C/C++** e **C#**.
-🔭 **Atualmente, estou em busca de oportunidades de estágio em desenvolvimento de software.**
+🎓 **Engenheiro de Computação em formação (USP)** | Técnico em **Desenvolvimento de Sistemas (COTIL / Unicamp)**
+
+---
+
+### 👨‍💻 Sobre mim
+
+- 💻 **Especialização em Back-End**: Atuação focada no desenvolvimento de sistemas back-end, arquitetura de software e programação de baixo nível utilizando **C/C++** e **C# / .NET**.
+- 🛠️ **Fundamentos de Engenharia**: Forte base acadêmica e prática em estruturas de dados, algoritmos, gerenciamento de memória, bancos de dados relacionais (**SQL**) e ambientes **Linux**.
+- 🎯 **Objetivo Profissional**: Em busca de oportunidades de **Estágio em Desenvolvimento de Software / Engenharia de Software** para aplicar competências técnicas e contribuir em projetos de alto impacto.
 
 ---
 
 ### 📬 Contato
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilospereira@usp.br)
 
 ---
@@ -20,10 +27,10 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-#### Banco de Dados
+#### Banco de Dados & BI
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 #### Ferramentas & Ambientes
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -42,7 +49,8 @@
 
 ---
 
-### 🌱 Em andamento
-- 🧱 **Estruturas de Dados Avançadas em C**: Ponteiros, listas encadeadas, árvores, grafos e manipulação de arquivos.
-- 🎓 **Projetos Acadêmicos na USP**: Desenvolvimento de projetos de engenharia e sistemas de computação.
-- 🌐 **Desenvolvimento Web Full-Stack**: Aprimorando conhecimentos em HTML, CSS e JavaScript.
+### 🌱 Foco Atual de Estudos
+
+- 🧱 **Estruturas de Dados Avançadas em C**: Alocação dinâmica de memória, ponteiros, listas encadeadas, árvores, grafos e manipulação de arquivos.
+- 🎓 **Projetos Acadêmicos (USP)**: Desenvolvimento de soluções computacionais em disciplinas de Engenharia de Computação.
+- 🌐 **Desenvolvimento Web & Integração**: Aprimorando conceitos de desenvolvimento full-stack e arquitetura de redes.
